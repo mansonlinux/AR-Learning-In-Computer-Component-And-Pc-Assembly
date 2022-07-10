@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f953ffaeb7cf4e9886b9ae0bcecadef, type: 3}
+  m_Name: ComputerParts1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 160
+  Columns: 11
+  Rows: 11
+  Board:
+  - Size: 11
+    Row:
+    - M
+    - A
+    - R
+    - H
+    - K
+    - W
+    - S
+    - E
+    - L
+    - E
+    - P
+  - Size: 11
+    Row:
+    - K
+    - M
+    - O
+    - P
+    - D
+    - L
+    - S
+    - O
+    - P
+    - O
+    - E
+  - Size: 11
+    Row:
+    - G
+    - G
+    - S
+    - P
+    - S
+    - W
+    - G
+    - V
+    - W
+    - V
+    - W
+  - Size: 11
+    Row:
+    - S
+    - R
+    - S
+    - Z
+    - A
+    - G
+    - J
+    - E
+    - O
+    - C
+    - K
+  - Size: 11
+    Row:
+    - I
+    - B
+    - E
+    - Q
+    - P
+    - C
+    - R
+    - C
+    - O
+    - R
+    - C
+  - Size: 11
+    Row:
+    - S
+    - Y
+    - C
+    - O
+    - G
+    - S
+    - B
+    - O
+    - K
+    - H
+    - I
+  - Size: 11
+    Row:
+    - S
+    - T
+    - O
+    - E
+    - U
+    - N
+    - S
+    - V
+    - I
+    - W
+    - H
+  - Size: 11
+    Row:
+    - A
+    - H
+    - R
+    - P
+    - A
+    - Q
+    - E
+    - P
+    - T
+    - J
+    - P
+  - Size: 11
+    Row:
+    - H
+    - K
+    - P
+    - X
+    - Y
+    - P
+    - S
+    - G
+    - A
+    - D
+    - A
+  - Size: 11
+    Row:
+    - C
+    - L
+    - P
+    - N
+    - T
+    - E
+    - Y
+    - E
+    - E
+    - S
+    - R
+  - Size: 11
+    Row:
+    - Y
+    - D
+    - P
+    - V
+    - T
+    - M
+    - H
+    - K
+    - Z
+    - U
+    - G
+  SearchWords:
+  - Word: GRAPHIC
+  - Word: RAM
+  - Word: CHASSIS
+  - Word: POWERSUPPLY
+  - Word: PROCESSOR
+  - Word: CHIPSET

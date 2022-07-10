@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f953ffaeb7cf4e9886b9ae0bcecadef, type: 3}
+  m_Name: ComputerTerms1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 130
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - D
+    - B
+    - Q
+    - O
+    - S
+    - V
+    - H
+    - S
+    - H
+  - Size: 9
+    Row:
+    - G
+    - S
+    - E
+    - M
+    - Y
+    - S
+    - A
+    - T
+    - I
+  - Size: 9
+    Row:
+    - T
+    - O
+    - O
+    - B
+    - E
+    - R
+    - R
+    - C
+    - N
+  - Size: 9
+    Row:
+    - K
+    - F
+    - U
+    - Y
+    - K
+    - S
+    - D
+    - G
+    - T
+  - Size: 9
+    Row:
+    - A
+    - T
+    - X
+    - E
+    - C
+    - H
+    - W
+    - M
+    - E
+  - Size: 9
+    Row:
+    - N
+    - W
+    - U
+    - Z
+    - T
+    - F
+    - A
+    - Z
+    - R
+  - Size: 9
+    Row:
+    - B
+    - A
+    - U
+    - V
+    - H
+    - G
+    - R
+    - K
+    - N
+  - Size: 9
+    Row:
+    - I
+    - R
+    - B
+    - L
+    - J
+    - U
+    - E
+    - C
+    - E
+  - Size: 9
+    Row:
+    - R
+    - E
+    - D
+    - L
+    - O
+    - F
+    - R
+    - N
+    - T
+  SearchWords:
+  - Word: HARDWARE
+  - Word: SOFTWARE
+  - Word: REBOOT
+  - Word: FOLDER
+  - Word: KEYS
+  - Word: INTERNET

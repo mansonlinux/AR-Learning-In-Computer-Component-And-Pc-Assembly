@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ScanAR.unity
+    guid: dda0812794464412d864def0172c3073
+  - enabled: 1
+    path: Assets/Scenes/InstructionAR.unity
+    guid: ccc383d5bdb5341c9b865f5fabf3434a
+  - enabled: 1
+    path: Assets/Scenes/InstructionGame.unity
+    guid: f1eeb9412d68844fd9a6dd725865fe0c
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 4100fe732efee4e89abb7e26730c36c4
+  - enabled: 1
+    path: Assets/Scenes/WordSearch_Menu.unity
+    guid: 16c14efc6846840f1adbffa0863a2695
+  - enabled: 1
+    path: Assets/Scenes/WordSearch_SelectCategory.unity
+    guid: e82e1bacaa67e4d4c9c00414804ba4f7
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: e60dcbb4f14884fde8d0e0706a4d9338
+  - enabled: 1
+    path: Assets/Scenes/WordSearch_HS.unity
+    guid: 33b309672d87e4971a01f29548373878
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 0ad1db514305f4fd193e4893320c627d
+  m_configObjects: {}

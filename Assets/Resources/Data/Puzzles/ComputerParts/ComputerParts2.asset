@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f953ffaeb7cf4e9886b9ae0bcecadef, type: 3}
+  m_Name: ComputerParts2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 160
+  Columns: 11
+  Rows: 11
+  Board:
+  - Size: 11
+    Row:
+    - W
+    - A
+    - L
+    - Q
+    - A
+    - A
+    - O
+    - U
+    - X
+    - T
+    - R
+  - Size: 11
+    Row:
+    - W
+    - S
+    - O
+    - Q
+    - O
+    - A
+    - W
+    - K
+    - S
+    - N
+    - E
+  - Size: 11
+    Row:
+    - L
+    - C
+    - P
+    - X
+    - G
+    - F
+    - N
+    - D
+    - R
+    - T
+    - N
+  - Size: 11
+    Row:
+    - E
+    - R
+    - T
+    - J
+    - E
+    - I
+    - N
+    - P
+    - U
+    - T
+    - O
+  - Size: 11
+    Row:
+    - A
+    - D
+    - I
+    - P
+    - S
+    - J
+    - O
+    - U
+    - V
+    - T
+    - H
+  - Size: 11
+    Row:
+    - L
+    - G
+    - C
+    - T
+    - U
+    - P
+    - T
+    - U
+    - O
+    - I
+    - P
+  - Size: 11
+    Row:
+    - G
+    - H
+    - A
+    - R
+    - D
+    - D
+    - R
+    - I
+    - V
+    - E
+    - O
+  - Size: 11
+    Row:
+    - K
+    - E
+    - L
+    - Z
+    - H
+    - W
+    - Q
+    - Q
+    - M
+    - E
+    - R
+  - Size: 11
+    Row:
+    - H
+    - E
+    - A
+    - X
+    - T
+    - A
+    - P
+    - X
+    - I
+    - N
+    - C
+  - Size: 11
+    Row:
+    - U
+    - A
+    - E
+    - G
+    - J
+    - D
+    - Y
+    - Q
+    - C
+    - B
+    - I
+  - Size: 11
+    Row:
+    - L
+    - S
+    - J
+    - W
+    - W
+    - E
+    - N
+    - L
+    - P
+    - S
+    - M
+  SearchWords:
+  - Word: HEATSINK
+  - Word: OPTICAL
+  - Word: HARDDRIVE
+  - Word: INPUT
+  - Word: OUTPUT
+  - Word: MICROPHONE

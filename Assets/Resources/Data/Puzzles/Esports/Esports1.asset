@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f953ffaeb7cf4e9886b9ae0bcecadef, type: 3}
+  m_Name: Esports1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 180
+  Columns: 13
+  Rows: 13
+  Board:
+  - Size: 13
+    Row:
+    - A
+    - B
+    - Q
+    - V
+    - Y
+    - S
+    - T
+    - Q
+    - N
+    - D
+    - R
+    - N
+    - H
+  - Size: 13
+    Row:
+    - C
+    - U
+    - A
+    - T
+    - G
+    - O
+    - O
+    - D
+    - G
+    - A
+    - M
+    - E
+    - H
+  - Size: 13
+    Row:
+    - R
+    - R
+    - T
+    - W
+    - E
+    - C
+    - F
+    - S
+    - A
+    - L
+    - E
+    - L
+    - L
+  - Size: 13
+    Row:
+    - L
+    - S
+    - A
+    - O
+    - K
+    - M
+    - N
+    - A
+    - U
+    - H
+    - L
+    - Z
+    - M
+  - Size: 13
+    Row:
+    - F
+    - T
+    - P
+    - W
+    - A
+    - Y
+    - Z
+    - J
+    - M
+    - A
+    - O
+    - O
+    - A
+  - Size: 13
+    Row:
+    - J
+    - D
+    - R
+    - K
+    - E
+    - T
+    - E
+    - A
+    - I
+    - Y
+    - C
+    - W
+    - E
+  - Size: 13
+    Row:
+    - E
+    - A
+    - F
+    - R
+    - E
+    - N
+    - T
+    - V
+    - M
+    - X
+    - N
+    - S
+    - Z
+  - Size: 13
+    Row:
+    - V
+    - M
+    - U
+    - J
+    - V
+    - X
+    - D
+    - A
+    - M
+    - U
+    - O
+    - Z
+    - A
+  - Size: 13
+    Row:
+    - C
+    - A
+    - E
+    - Q
+    - J
+    - D
+    - B
+    - M
+    - C
+    - P
+    - C
+    - K
+    - G
+  - Size: 13
+    Row:
+    - I
+    - G
+    - A
+    - M
+    - E
+    - R
+    - T
+    - A
+    - G
+    - K
+    - A
+    - R
+    - T
+  - Size: 13
+    Row:
+    - D
+    - E
+    - Y
+    - A
+    - L
+    - P
+    - L
+    - L
+    - E
+    - W
+    - J
+    - E
+    - U
+  - Size: 13
+    Row:
+    - H
+    - G
+    - H
+    - S
+    - C
+    - R
+    - A
+    - L
+    - I
+    - G
+    - I
+    - G
+    - M
+  - Size: 13
+    Row:
+    - D
+    - C
+    - O
+    - N
+    - S
+    - O
+    - L
+    - E
+    - V
+    - S
+    - C
+    - Z
+    - N
+  SearchWords:
+  - Word: AUTOATTACK
+  - Word: BURSTDAMAGE
+  - Word: GOODGAME
+  - Word: WELLPLAYED
+  - Word: GAMERTAG
+  - Word: CONSOLE

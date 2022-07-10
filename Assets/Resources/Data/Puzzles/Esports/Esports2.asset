@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f953ffaeb7cf4e9886b9ae0bcecadef, type: 3}
+  m_Name: Esports2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 180
+  Columns: 13
+  Rows: 13
+  Board:
+  - Size: 13
+    Row:
+    - I
+    - O
+    - T
+    - Q
+    - U
+    - H
+    - L
+    - I
+    - S
+    - M
+    - O
+    - C
+    - M
+  - Size: 13
+    Row:
+    - N
+    - J
+    - W
+    - O
+    - W
+    - C
+    - E
+    - N
+    - T
+    - U
+    - K
+    - R
+    - E
+  - Size: 13
+    Row:
+    - U
+    - X
+    - J
+    - S
+    - A
+    - W
+    - A
+    - I
+    - R
+    - L
+    - I
+    - O
+    - T
+  - Size: 13
+    Row:
+    - D
+    - R
+    - P
+    - I
+    - J
+    - M
+    - S
+    - T
+    - E
+    - T
+    - U
+    - S
+    - A
+  - Size: 13
+    Row:
+    - E
+    - O
+    - Q
+    - L
+    - C
+    - G
+    - G
+    - I
+    - A
+    - I
+    - V
+    - S
+    - G
+  - Size: 13
+    Row:
+    - C
+    - J
+    - J
+    - X
+    - H
+    - Y
+    - L
+    - A
+    - M
+    - P
+    - J
+    - P
+    - A
+  - Size: 13
+    Row:
+    - K
+    - F
+    - N
+    - X
+    - X
+    - Y
+    - R
+    - T
+    - E
+    - L
+    - R
+    - L
+    - M
+  - Size: 13
+    Row:
+    - T
+    - Z
+    - C
+    - C
+    - M
+    - K
+    - Y
+    - I
+    - R
+    - A
+    - Q
+    - A
+    - E
+  - Size: 13
+    Row:
+    - N
+    - D
+    - F
+    - J
+    - T
+    - Q
+    - T
+    - N
+    - O
+    - Y
+    - B
+    - T
+    - V
+  - Size: 13
+    Row:
+    - S
+    - V
+    - P
+    - C
+    - S
+    - Q
+    - L
+    - G
+    - X
+    - E
+    - Q
+    - F
+    - B
+  - Size: 13
+    Row:
+    - B
+    - D
+    - C
+    - O
+    - N
+    - M
+    - K
+    - F
+    - I
+    - R
+    - A
+    - O
+    - E
+  - Size: 13
+    Row:
+    - F
+    - X
+    - Q
+    - B
+    - F
+    - V
+    - X
+    - R
+    - L
+    - I
+    - U
+    - R
+    - Z
+  - Size: 13
+    Row:
+    - O
+    - R
+    - B
+    - L
+    - E
+    - N
+    - R
+    - I
+    - G
+    - F
+    - Y
+    - M
+    - W
+  SearchWords:
+  - Word: METAGAME
+  - Word: CROSSPLATFORM
+  - Word: AOE
+  - Word: MULTIPLAYER
+  - Word: STREAMER
+  - Word: INITIATING

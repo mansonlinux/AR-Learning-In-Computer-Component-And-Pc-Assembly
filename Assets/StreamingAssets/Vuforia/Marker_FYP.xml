@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="InstallPSU-02-Vufo" size="300.000000 192.186172" />
+    <ImageTarget name="InstallSSD-Vufo" size="500.000000 319.042328" />
+    <ImageTarget name="InstallMobo-Vufo" size="500.000000 319.042328" />
+    <ImageTarget name="InstallGPU-Vufo" size="500.000000 319.042328" />
+    <ImageTarget name="InstallRAM-Vufo" size="500.000000 319.042328" />
+    <ImageTarget name="InstallPSU-Vufo" size="500.000000 321.428558" />
+    <ImageTarget name="InstallProc-Vufo" size="500.000000 319.548859" />
+    <ImageTarget name="InstallCPUCooling-Vufo" size="500.000000 319.548859" />
+    <ImageTarget name="Fan-8-Vufo" size="500.000000 333.333344" />
+    <ImageTarget name="Case-7-Vufo" size="500.000000 370.625000" />
+    <ImageTarget name="PSU-6-Vufo" size="500.000000 370.625000" />
+    <ImageTarget name="RAM-5-Vufo" size="500.000000 333.333344" />
+    <ImageTarget name="SSD-4-Vufo" size="500.000000 370.625000" />
+    <ImageTarget name="GPU-3-Vufo" size="500.000000 333.333344" />
+    <ImageTarget name="Mobo-2-Vufo" size="500.000000 370.625000" />
+    <ImageTarget name="CPU-1-Vufo" size="500.000000 333.333344" />
+  </Tracking>
+</QCARConfig>

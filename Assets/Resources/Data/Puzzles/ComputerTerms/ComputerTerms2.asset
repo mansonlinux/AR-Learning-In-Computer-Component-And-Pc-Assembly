@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f953ffaeb7cf4e9886b9ae0bcecadef, type: 3}
+  m_Name: ComputerTerms2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 130
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - N
+    - M
+    - J
+    - K
+    - S
+    - Z
+    - T
+    - R
+    - L
+  - Size: 9
+    Row:
+    - Q
+    - P
+    - E
+    - R
+    - E
+    - F
+    - S
+    - E
+    - I
+  - Size: 9
+    Row:
+    - I
+    - J
+    - W
+    - M
+    - T
+    - N
+    - P
+    - S
+    - H
+  - Size: 9
+    Row:
+    - J
+    - M
+    - A
+    - K
+    - O
+    - Z
+    - B
+    - O
+    - F
+  - Size: 9
+    Row:
+    - M
+    - C
+    - S
+    - C
+    - N
+    - R
+    - A
+    - U
+    - B
+  - Size: 9
+    Row:
+    - G
+    - I
+    - I
+    - C
+    - H
+    - V
+    - Y
+    - R
+    - U
+  - Size: 9
+    Row:
+    - D
+    - P
+    - F
+    - G
+    - L
+    - Q
+    - J
+    - C
+    - X
+  - Size: 9
+    Row:
+    - M
+    - E
+    - T
+    - H
+    - E
+    - R
+    - N
+    - E
+    - T
+  - Size: 9
+    Row:
+    - G
+    - O
+    - H
+    - R
+    - C
+    - Z
+    - Q
+    - T
+    - W
+  SearchWords:
+  - Word: DISK
+  - Word: NOTES
+  - Word: ICONS
+  - Word: ETHERNET
+  - Word: MEMORY
+  - Word: RESOURCE
