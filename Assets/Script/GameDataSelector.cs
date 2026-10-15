@@ -14,8 +14,8 @@ public class GameDataSelector : MonoBehaviour
         SelectSequentalBoardData();
     }
 
-    //Function which have ability to select 1st puzzle, second, third and etc.
-    //Complicated make me crazy erkkkkk
+    //Function which has ability to select 1st puzzle, second, third, etc.
+    //Complicated, makes me crazy erkkkkk
     private void SelectSequentalBoardData()
     {
         foreach(var data in levelData.data)
